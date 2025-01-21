@@ -19,4 +19,5 @@ Morrison, C. M.; Hogard, S.; Pearce, R.; Gerrity, D.; von Gunten, U.; Wert, E. C
 Chaplin, M.; Henderson, J.; Leung, K.; Szczuka, A.; Hansen, B.; Rockey, N. C.; Wigginton, K. Linear Mixed Model of Virus Disinfection by Chlorine to Harmonize Data Collected Across Broad Environmental Conditions. bioRxiv, 2023, 2023.09.12.557160. 
 
 # Publication
-In preparation
+Link to the preprint version of this study:
+https://www.biorxiv.org/content/10.1101/2025.01.20.633964v1
