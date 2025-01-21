@@ -18,6 +18,5 @@ Rockey, N. C.; Henderson, J. B.; Chin, K.; Raskin, L.; Wigginton, K. R. Predicti
 Morrison, C. M.; Hogard, S.; Pearce, R.; Gerrity, D.; von Gunten, U.; Wert, E. C. Ozone Disinfection of Waterborne Pathogens and Their Surrogates: A Critical Review. Water Res. 2022, 214, 118206.
 Chaplin, M.; Henderson, J.; Leung, K.; Szczuka, A.; Hansen, B.; Rockey, N. C.; Wigginton, K. Linear Mixed Model of Virus Disinfection by Chlorine to Harmonize Data Collected Across Broad Environmental Conditions. bioRxiv, 2023, 2023.09.12.557160. 
 
-# Publication
-Link to the preprint version of this study:
-https://www.biorxiv.org/content/10.1101/2025.01.20.633964v1
+# Publication (preprint)
+Yanagihara et al. (2025) bioRxiv https://doi.org/10.1101/2025.01.20.633964
