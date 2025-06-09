@@ -16,7 +16,8 @@ An example R code for analysis and visualization. This code requires an input da
 These files include aggregated values of inactivation rate constants for ultraviolet (UV), ozone, and free chlorine, respectively. The original data were collected from the papers below:
 Rockey, N. C.; Henderson, J. B.; Chin, K.; Raskin, L.; Wigginton, K. R. Predictive Modeling of Virus Inactivation by UV. Environ. Sci. Technol. 2021, 55 (5), 3322–3332.
 Morrison, C. M.; Hogard, S.; Pearce, R.; Gerrity, D.; von Gunten, U.; Wert, E. C. Ozone Disinfection of Waterborne Pathogens and Their Surrogates: A Critical Review. Water Res. 2022, 214, 118206.
-Chaplin, M.; Henderson, J.; Leung, K.; Szczuka, A.; Hansen, B.; Rockey, N. C.; Wigginton, K. Linear Mixed Model of Virus Disinfection by Chlorine to Harmonize Data Collected Across Broad Environmental Conditions. bioRxiv, 2023, 2023.09.12.557160. 
+Chaplin, M.; Leung, K.; Szczuka, A.; Hansen, B.; Rockey, N. C.; Henderson, J. B.; Wigginton, K. R. Linear Mixed Model of Virus Disinfection by Free Chlorine to Harmonize Data Collected across Broad Environmental Conditions. Environ. Sci. Technol. 2024, 58 (27), 12260−12271.
 
-# Publication (preprint)
-Yanagihara et al. (2025) bioRxiv https://doi.org/10.1101/2025.01.20.633964
+
+# Publication
+Yanagihara et al. (2025) Environ. Sci. Technol. Lett. https://doi.org/10.1021/acs.estlett.5c00467
